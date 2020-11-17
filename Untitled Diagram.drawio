@@ -1,0 +1,41 @@
+<mxfile host="app.diagrams.net" modified="2020-11-17T17:59:26.700Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="kl3uoVeUQuSTmNPnu1qf" version="13.9.9" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1666" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="vJ7PkwPRFBUwsw5Id4fP-1" value="Header" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="30" width="770" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vJ7PkwPRFBUwsw5Id4fP-2" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="390" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vJ7PkwPRFBUwsw5Id4fP-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="255" width="270" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="vJ7PkwPRFBUwsw5Id4fP-4" value="Schedual" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="565" y="290" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vJ7PkwPRFBUwsw5Id4fP-5" value="Available Produce&lt;br&gt;&lt;br&gt;Render the produce available&lt;br&gt;&lt;br&gt;the Month info would guide this&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="255" width="256" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="vJ7PkwPRFBUwsw5Id4fP-6" value="Render the daily update on location&lt;br&gt;&lt;br&gt;the Day information&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="400" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vJ7PkwPRFBUwsw5Id4fP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vJ7PkwPRFBUwsw5Id4fP-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vJ7PkwPRFBUwsw5Id4fP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vJ7PkwPRFBUwsw5Id4fP-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vJ7PkwPRFBUwsw5Id4fP-7" value="Choose Date" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="324.5" y="150" width="161" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
