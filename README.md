@@ -74,6 +74,7 @@ Using React and all other tools we've covered so far, create a website that depi
 Try using local state to toggle between different days. Note that we can use conditional rendering for as many conditions as we want - including all seven days of the week!
 
 Once again, make sure to plan your application first and include a component diagram in your README.
+<img src="https://github.com/murphynd/FarmersMarket/blob/master/Untitled%20Diagram.png">
 
 ### 🦠 Known Bugs
 
