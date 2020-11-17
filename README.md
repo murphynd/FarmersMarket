@@ -134,7 +134,7 @@ Once again, make sure to plan your application first and include a component dia
 
 | Author | GitHub | Email |
 |--------|:------:|:-----:|
-| [Forrest Reiland](https://linkedin.com/in/freiland) | [freiland](https://github.com/freiland) |  [freiland@email.arizona.edu](mailto:nataliemurphy500@gmail.com) |
+| [Forrest Reiland](https://linkedin.com/in/freiland) | [freiland](https://github.com/freiland) |  [freiland@email.arizona.edu](mailto:freiland@email.arizona.edu) |
 | [Natalie Murphy](https://linkedin.com/in/murphynd) | [Murphynd](https://github.com/Murphynd) |  [NatalieMurphy500@gmail.com](mailto:nataliemurphy500@gmail.com) |
 
 ------------------------------
