@@ -270,7 +270,7 @@ const availableProduce = [
   }
 ];
 
-function ProduceList() {
+function ProduceList () {
   return (
     <React.Fragment>
         {availableProduce.map((produce, index) =>
