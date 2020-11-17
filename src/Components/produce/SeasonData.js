@@ -1,6 +1,3 @@
-import React from 'react';
-import Produce from "./Produce";
-
 const availableProduce = [  
   {  
      month: "January",
@@ -270,16 +267,4 @@ const availableProduce = [
   }
 ];
 
-function ProduceList () {
-  return (
-    <React.Fragment>
-        {availableProduce.map((produce, index) =>
-          <Produce // JSX tags being used props to child component which is the Schedule
-            month = {produce.month}
-            selection = {produce.selection}
-            key = {index} />
-        )}
-    </React.Fragment>
-  )
-}
-export default ProduceList; 
+export default availableProduce

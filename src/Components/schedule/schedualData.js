@@ -1,6 +1,3 @@
-import React from 'react';
-import Schedule from "./Schedule";
-
 const mastermarketSchedule = [  
   {  
      day: "Sunday",
@@ -39,21 +36,4 @@ const mastermarketSchedule = [
      booth: "9G"
   }
  ];
-
- function ScheduleList() {
-   return (
-     <React.Fragment>
-        <hello>Hi!</hello>
-         {mastermarketSchedule.map((schedule, index) =>
-           <Schedule // JSX tags being used props to child component which is the Schedule
-             day = {schedule.day}
-             location = {schedule.location}
-             hours = {schedule.hours}
-             booth = {schedule.booth}
-             key = {index} />
-         )}
-     </React.Fragment>
-   )
- }
-
- export default ScheduleList;
+ export default mastermarketSchedule
