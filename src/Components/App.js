@@ -1,14 +1,15 @@
 import React from "react";
 import Header from "./Header";
-import ScheduleControl from "./ScheduleControl";
+import ProduceControl from "./ProduceControl";
+import ScheduleList from "./schedule/ScheduleList.js";
 
 
 function App() {
   return (
     <React.Fragment>
       <Header />
-      <ScheduleControl />
-      
+      <ProduceControl />
+      <ScheduleList />
     </React.Fragment>
   );
 }

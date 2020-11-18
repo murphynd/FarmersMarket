@@ -16,7 +16,8 @@ body {
 .header {
   padding: 30px;
   text-align: center;
-  background: white;
+  color: #5B8266;
+  background: #AEF6C7;
 }
 
 .header h1 {

@@ -4,19 +4,13 @@ import availableProduce from "./SeasonData"
 
 
 
-function ProduceList () {
+function ProduceList(props) {
   return (
     <React.Fragment>
-        {availableProduce.map((produce, index) =>
-          <Produce // JSX tags being used props to child component which is the Schedule
-            month = {produce.month}
-            selection = {produce.selection.map((bob) =>
-              <li>{bob}</li>
-            )}
-            key = {index} />
-        )}
+      <Produce // JSX tags being used props to child component which is the Schedule
+        month={availableProduce[props.currentIndex].month}
+        selection={availableProduce[props.currentIndex].selection} />
     </React.Fragment>
-  )
+  );
 }
-export default ProduceList; 
-
+export default ProduceList;
